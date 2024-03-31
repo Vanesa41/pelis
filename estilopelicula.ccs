@@ -1,0 +1,13 @@
+
+<style>
+        fieldset{
+            width: 450px;
+        }
+        body{
+            background-color:thistle;
+            background-size: 100%;
+         }
+         .fondo{
+            background: rgba(255,157,157,0.6);
+        }
+    </style>
